@@ -1,0 +1,18 @@
+# Ignorar archivos de log
+*.log
+
+# Ignorar la carpeta temp
+temp/
+
+# Ignorar archivos específicos de Mac OS
+.DS_Store
+
+# Ignorar archivos de configuración de IDEs (ej. VSCode)
+.vscode/
+
+# Ignorar archivos generados por compiladores
+*.class
+*.o
+
+# Ignorar archivos de sistema de Windows
+Thumbs.db
