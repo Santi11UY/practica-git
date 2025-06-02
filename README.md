@@ -1,2 +1,2 @@
-Esta es la línea inicial del README.
+Esta es la linea modificada
 Aquí agrego más texto al README.
