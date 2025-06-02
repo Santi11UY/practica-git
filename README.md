@@ -1,1 +1,1 @@
-# practica-git
+Esta es la línea inicial del README.
